@@ -1,0 +1,5 @@
+text1 = "ГДЗ"
+text_alg = "Алгебра"
+text_gem = "Геометрия"
+text_vis = "Вeроят и стат"
+text_fiz = "Физика"
